@@ -27,3 +27,4 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 
 Please feel free to create a pull request and submit any issues!
+![Снимок экрана 2022-01-01 133257](https://user-images.githubusercontent.com/78149480/147851772-3cb3a757-02a9-4666-9490-ee0dea2b8613.png)
